@@ -1,0 +1,66 @@
+.item-card {
+  background: linear-gradient(114.41deg, #D3F6F9 -23.29%, #EFFCFD -7.34%, #FFFFFF 16.71%, #F8FFFC 44.79%, #ECFFF8 58.43%, #FFFFFF 79.11%);
+  background-repeat: no-repeat;
+
+  margin: 15px 20px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+
+.item-name {
+  text-align: center;
+  width: 180px;
+  margin-bottom: 5px;
+  font-size: 30px;
+  color: grey;
+}
+
+.item-desc {
+  font-size: 20px;
+  color: rgb(122, 122, 122);
+}
+
+.item-price {
+  font-size: 25px;
+  color: rgb(120, 172, 155);
+  margin-right: 30px;
+}
+
+.item-quantity {
+  font-size: 20px;
+  color: rgb(122, 122, 122);
+}
+
+.quant-row {
+  margin-top: 5px;
+  width: 150px;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.quant-btn {
+  width: 35px;
+  font-size: 20px;
+  background-color: rgb(150, 190, 177);
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.quant-btn:hover {
+  cursor: pointer;
+  background-color: rgb(120, 172, 155);
+}
+
+.item-box {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

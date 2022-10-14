@@ -1,0 +1,36 @@
+.total-section {
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 220px;
+  height: fit-content;
+  border-radius: 15px;
+  padding: 20px;
+  transition: background-color ease-in-out 0.3s;
+}
+
+.total-section:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.subtext {
+  font-size: 20px;
+  color: rgb(122, 122, 122);
+}
+
+.total-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total-title {
+  text-align: center;
+  color: rgb(120, 172, 155);
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.total-price {
+  text-align: center;
+  font-size: 30px;
+  color: grey;
+}

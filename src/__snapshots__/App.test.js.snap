@@ -1,0 +1,314 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="app-content-margins"
+  >
+    <div
+      class="cart-section"
+    >
+      <div
+        class="cart-title-row"
+      >
+        <div
+          class="cart-title font-body"
+        >
+          Shopping Cart
+        </div>
+        <div
+          class="btns-section font-body"
+        >
+          <div
+            class="save-btn btns-title"
+          >
+            Save Cart
+          </div>
+          <div
+            class="load-btn btns-title"
+          >
+            Load Cart
+          </div>
+        </div>
+      </div>
+      <div
+        class="cart-scroll"
+      >
+        <div
+          class="item-card font-body"
+        >
+          <div
+            class="item-box"
+          >
+            <div
+              class="item-name"
+            >
+              Apple
+            </div>
+            <div
+              class="item-desc"
+            >
+              $2.00 per item
+            </div>
+            <div
+              class="quant-row"
+            >
+              <button
+                class="quant-btn"
+              >
+                -
+              </button>
+              <div
+                class="item-quantity"
+              >
+                x 2
+              </div>
+              <button
+                class="quant-btn"
+              >
+                +
+              </button>
+            </div>
+          </div>
+          <div
+            class="item-price"
+          >
+            $ 4.00
+          </div>
+        </div>
+        <div
+          class="item-card font-body"
+        >
+          <div
+            class="item-box"
+          >
+            <div
+              class="item-name"
+            >
+              Banana
+            </div>
+            <div
+              class="item-desc"
+            >
+              $1.50 per item
+            </div>
+            <div
+              class="quant-row"
+            >
+              <button
+                class="quant-btn"
+              >
+                -
+              </button>
+              <div
+                class="item-quantity"
+              >
+                x 100
+              </div>
+              <button
+                class="quant-btn"
+              >
+                +
+              </button>
+            </div>
+          </div>
+          <div
+            class="item-price"
+          >
+            $ 150.00
+          </div>
+        </div>
+        <div
+          class="item-card font-body"
+        >
+          <div
+            class="item-box"
+          >
+            <div
+              class="item-name"
+            >
+              Peach
+            </div>
+            <div
+              class="item-desc"
+            >
+              $3.00 per item
+            </div>
+            <div
+              class="quant-row"
+            >
+              <button
+                class="quant-btn"
+              >
+                -
+              </button>
+              <div
+                class="item-quantity"
+              >
+                x 5
+              </div>
+              <button
+                class="quant-btn"
+              >
+                +
+              </button>
+            </div>
+          </div>
+          <div
+            class="item-price"
+          >
+            $ 15.00
+          </div>
+        </div>
+        <div
+          class="item-card font-body"
+        >
+          <div
+            class="item-box"
+          >
+            <div
+              class="item-name"
+            >
+              iPhone
+            </div>
+            <div
+              class="item-desc"
+            >
+              $999.00 per item
+            </div>
+            <div
+              class="quant-row"
+            >
+              <button
+                class="quant-btn"
+              >
+                -
+              </button>
+              <div
+                class="item-quantity"
+              >
+                x 1
+              </div>
+              <button
+                class="quant-btn"
+              >
+                +
+              </button>
+            </div>
+          </div>
+          <div
+            class="item-price"
+          >
+            $ 999.00
+          </div>
+        </div>
+        <div
+          class="item-card font-body"
+        >
+          <div
+            class="item-box"
+          >
+            <div
+              class="item-name"
+            >
+              Tesla
+            </div>
+            <div
+              class="item-desc"
+            >
+              $52990.00 per item
+            </div>
+            <div
+              class="quant-row"
+            >
+              <button
+                class="quant-btn"
+              >
+                -
+              </button>
+              <div
+                class="item-quantity"
+              >
+                x 1
+              </div>
+              <button
+                class="quant-btn"
+              >
+                +
+              </button>
+            </div>
+          </div>
+          <div
+            class="item-price"
+          >
+            $ 52990.00
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="app-right-column"
+    >
+      <div
+        class="input-section font-body"
+      >
+        <div
+          class="input-title"
+        >
+          Add Item
+        </div>
+        <button
+          class="arrow-btn"
+        >
+           
+          <div
+            class="dropdown-arrow down"
+          />
+        </button>
+      </div>
+      <div
+        class="total-section font-body"
+      >
+        <div
+          class="total-row"
+        >
+          <div
+            class="subtext"
+          >
+            Cart Total: 
+          </div>
+          <div
+            class="subtext"
+          >
+            $ 54158.00
+          </div>
+        </div>
+        <div
+          class="total-row"
+        >
+          <div
+            class="subtext"
+          >
+            + Tax:
+          </div>
+          <div
+            class="subtext"
+          >
+            $ 7040.54
+          </div>
+        </div>
+        <div
+          class="total-title"
+        >
+          Total Price
+        </div>
+        <div
+          class="total-price"
+        >
+          $ 61198.54
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

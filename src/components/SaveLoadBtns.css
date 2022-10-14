@@ -1,0 +1,38 @@
+.btns-section {
+  display: flex;
+  width: 220px;
+  height: fit-content;
+}
+
+.btns-title {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+
+.save-btn {
+  background-color: rgb(147, 197, 180);
+  width: 100px;
+  height: fit-content;
+  border-radius: 15px;
+  padding: 5px 20px 5px 20px;
+}
+
+.save-btn:hover {
+  cursor: pointer;
+  background-color: rgb(124, 175, 158);
+}
+
+.load-btn {
+  margin-left: 10px;
+  background-color: rgb(147, 197, 180);
+  width: 100px;
+  height: fit-content;
+  border-radius: 15px;
+  padding: 5px 20px 5px 20px;
+}
+
+.load-btn:hover {
+  cursor: pointer;
+  background-color: rgb(124, 175, 158);
+}

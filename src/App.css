@@ -1,0 +1,31 @@
+.app {
+  background: linear-gradient(
+    117.72deg,
+    #c0ddd3 12.06%,
+    #afe1cf 23.97%,
+    #a0e4cc 36.27%,
+    #c4e8db 78.28%,
+    #c4e8db 94.83%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.app-content-margins {
+  position: relative;
+  margin: auto;
+  margin-top: 5vh;
+  width: 80vw;
+  height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 1200px;
+}
+
+.app-right-column {
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
