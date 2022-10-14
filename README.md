@@ -1,6 +1,6 @@
 ## **Front end**: 
-Please visit the [website link](https://price-calcu.herokuapp.com/) to the deployed version of the application (currerently only supports horizontal display).
-
+Please visit the [website link](https://price-calcu.herokuapp.com/) to the deployed version of the application (currerently only supports horizontal display).  
+![image](https://user-images.githubusercontent.com/74110291/195761830-e6a7fa31-cbed-4718-b7f7-3837acfc28f0.png)  
 The app is fully responsive, so feel free to change the size of the browser. 
 
 ### Features
@@ -9,7 +9,9 @@ The app is fully responsive, so feel free to change the size of the browser.
 - Automatically calculates price and tax on shopping cart update
 - Save and load shopping cart (will lose the saved cart on page refresh since a database is not implemented)
 - UI animation for hovering over total price
-- The form to add an item can be expanded and closed 
+- The form to add an item can be expanded and closed  
+![image](https://user-images.githubusercontent.com/74110291/195761884-9e880a78-2e1f-4aa5-9bc8-2d9e7e5815fd.png)
+![image](https://user-images.githubusercontent.com/74110291/195761865-0cf9ea59-cef9-474f-89cd-17889b1e3c51.png)  
 
 Note, a sample shopping cart is built in when loading the page, this is only for ease of testing and demonstration. It does nott affect app functionality in any way. 
 
