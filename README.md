@@ -1,5 +1,4 @@
 ## **Front end**: 
-Please visit the [website link](https://price-calcu.herokuapp.com/) to the deployed version of the application (currerently only supports horizontal display).  
 ![image](https://user-images.githubusercontent.com/74110291/195761830-e6a7fa31-cbed-4718-b7f7-3837acfc28f0.png)  
 The app is fully responsive, so feel free to change the size of the browser. 
 
